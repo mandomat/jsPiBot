@@ -56,10 +56,8 @@ exports.turnRight = function (){
 exports.turnLeft = function () {
  greenLed.writeSync(0);
  redLed.writeSync(0);
- rightWheelFRWRD.writeSync(0);
  leftWheelFRWRD.writeSync(0);
  rightWheelBCKWRD.writeSync(0);
- leftWheelBCKWRD.writeSync(0);
 
  leftWheelBCKWRD.writeSync(1);
  rightWheelFRWRD.writeSync(1);
