@@ -1,2 +1,2 @@
 # jsPiBot
-Raspberry Pi robot controlled by Ionic application and Nodejs
+Raspberry Pi robot with ultrasonic sensor controlled by Ionic application and Nodejs
