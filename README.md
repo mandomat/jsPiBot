@@ -16,6 +16,6 @@ var binaryToBase64 = function(buffer) {
   ```
   where buffer is the response data.
   Then in the HTML page:
-  
+  ```HTML
   <img data-ng-src="data:image/jpeg;base64,{{image}}">
-  
+   ```
