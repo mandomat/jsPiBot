@@ -1,5 +1,5 @@
 # jsPiBot
-Raspberry Pi robot with ultrasonic sensor HC-SR04 and Raspberry Pi camera remotely controlled by Ionic application and Nodejs.
+Raspberry Pi robot with ultrasonic sensor HC-SR04 and Raspberry Pi camera remotely controlled by AngularJs application and Nodejs.
 
 ## Client
 The client part, written in Angularjs, consists in $http requests to the server. The image received is in binary format so it must be converted in base64 format to be displayed:
