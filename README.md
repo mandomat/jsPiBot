@@ -19,3 +19,4 @@ var binaryToBase64 = function(buffer) {
   ```HTML
   <img data-ng-src="data:image/jpeg;base64,{{image}}">
    ```
+   ![alt text](./21459987_10212766779638266_645192797_o.jpg)
